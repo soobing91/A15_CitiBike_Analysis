@@ -1,5 +1,5 @@
 # CitiBike Analysis (September 2019)
-This analysis utilizes Tableau Public and data acquired from [CitiBikeNYC](https://www.citibikenyc.com/system-data) to study various phenomena of rental bike ridership of September 2019. The story consists of three interactive dashboards:
+This analysis (`A15_CitiBike_Analysis.twbx`) utilizes Tableau Public and data acquired from [CitiBikeNYC](https://www.citibikenyc.com/system-data) to study various phenomena of rental bike ridership of September 2019. The story consists of three interactive dashboards:
 * A city map with popular bike stations
 * Top/bottom 10 starting/ending stations
 * Bikes that need the utmost maintenance
